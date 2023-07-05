@@ -1,5 +1,6 @@
 # Instacart-Python
 Using Python queries to analyze (fictional) data for Instacart (online grocery business) as part of the CareerFoundry Data Analytics Course.
+**NOTE**: Folder 02 is the dataset file which was deemed too large to upload to GitHub hence the missing folder in this repository. Folders 01, 03, 04, and 05 are all available in the repository, though. 
 # Introduction
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. My analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 # My Role
